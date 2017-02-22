@@ -69,4 +69,4 @@ Use AMA style publications as a list (you can export AMA from PubMed, on the For
 IMPORTANT: Publications sectio must be placed at the end and cannot be emptied!
 -->
 
-- Trung N VuEmail author, Dirk Valkenborg, Koen Smets, Kim A Verwaest, Roger Dommisse, Filip Lemière, Alain Verschoren, Bart Goethals and Kris Laukens. An integrated workflow for robust alignment and simplified quantitative analysis of NMR spectrometry data. BMC Bioinformatics . 2011;12:405. doi:10.1186/1471-2105-12-405.
+- Trung NV, Valkenborg D, Smets K, Verwaest KA, Dommisse R, Lemière F, Verschoren A, Goethals B, Laukens K. An integrated workflow for robust alignment and simplified quantitative analysis of NMR spectrometry data. BMC Bioinformatics . 2011;12:405. doi:10.1186/1471-2105-12-405.
