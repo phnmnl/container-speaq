@@ -27,6 +27,9 @@ RUN apt-get -y clean && apt-get -y autoremove && rm -rf /var/lib/{cache,log}/ /t
 #ADD show_chromatogram.r /usr/local/bin/show_chromatogram.r
 #RUN chmod +x /usr/local/bin/show_chromatogram.r
 
+# Add testing scripts
+ADD runTest1.sh /usr/local/bin/runTest1.sh
+
 # Define Entry point script
 #ENTRYPOINT [ "Rscript" ]
 #CMD [ "/usr/local/bin/show_chromatogram.r" ]
