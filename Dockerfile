@@ -3,8 +3,8 @@ FROM container-registry.phenomenal-h2020.eu/phnmnl/rbase:latest
 MAINTAINER PhenoMeNal-H2020 Project (phenomenal-h2020-users@googlegroups.com)
 
 LABEL software=speaq
-LABEL software.version=1.2.4
-LABEL version=0.1
+LABEL software.version=2.3.1
+LABEL version=1.0
 LABEL Description="speaq: Tools for Nuclear Magnetic Resonance Spectrum Alignment and Quantitative Analysis."
 
 # Install packages for compilation
@@ -33,3 +33,4 @@ ADD runTest1.sh /usr/local/bin/runTest1.sh
 # Define Entry point script
 #ENTRYPOINT [ "Rscript" ]
 #CMD [ "/usr/local/bin/show_chromatogram.r" ]
+
