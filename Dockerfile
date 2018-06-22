@@ -4,7 +4,7 @@ MAINTAINER PhenoMeNal-H2020 Project (phenomenal-h2020-users@googlegroups.com)
 
 LABEL software=speaq
 LABEL software.version=2.3.1
-LABEL version=1.0
+LABEL version=1.0.1
 LABEL Description="speaq: Tools for Nuclear Magnetic Resonance Spectrum Alignment and Quantitative Analysis."
 
 # Install packages for compilation
